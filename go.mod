@@ -1,4 +1,4 @@
-module github.com/ory/x
+module github.com/isaqib23/x
 
 go 1.22
 
